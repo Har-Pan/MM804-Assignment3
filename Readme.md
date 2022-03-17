@@ -40,7 +40,7 @@ vtk==9.1.0
 
 ## OutPut
 
-![Screenshot](output_final.png)
+![Screenshot](output_final.jpg)
 
 
 
